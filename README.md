@@ -1,8 +1,8 @@
 # Library for creating a traffic simulator 
-Student project of a library in C++ used to create a road traffic simulator. 
+Project of a library in C++ used to create a road traffic simulator. 
 
 # Author 
-*Andrey Kmet*  
+*Andrew Kmet*  
 
 # Table of Contents
 1. [Introduction](#introduction)
